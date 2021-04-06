@@ -1,6 +1,6 @@
 {
   "name": "@dothq/is-argon",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "main": "lib/index.js",
   "types": "lib",
   "repository": "https://github.com/dothq/argon-checker",
