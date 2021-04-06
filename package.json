@@ -1,0 +1,20 @@
+{
+  "name": "@dothq/is-argon",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "types": "lib",
+  "repository": "https://github.com/dothq/argon-checker",
+  "author": "EnderDev <kieran@dothq.co>",
+  "license": "MPL-2.0",
+  "private": false,
+  "scripts": {
+    "build": "tsc -p .",
+    "pub": "yarn publish --access public"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  },
+  "dependencies": {
+    "argon2": "^0.27.2"
+  }
+}
